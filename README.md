@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="300" src="https://github.com/Genzai/Genzai/blob/main/GENZAI%20COVER.png" />
+  <img width="800" height="300" src="https://github.com/Genzai-labs/Genzai-labs/blob/main/Cover.png" />
 </p>
 
 <h3 align="center">Pioneering the AI Revolution on BASE</h3>
